@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shantanu+Humbe+👋;Software+Engineer+@+Goldman+Sachs;Quant+Developer+%26+CFA+Level+I" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=32&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I'm+Shantanu+Humbe+👋;Software+Engineer+@+Goldman+Sachs;Quant+Developer+%26+CFA+Level+I" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,12 +40,12 @@ I am a **Software Engineer** in the **Prime Services Risk Technology** team at *
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanuhumbe&show_icons=true&theme=tokyonight&hide_border=true" alt="Shantanu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuhumbe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanuhumbe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Shantanu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuhumbe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanuhumbe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanuhumbe&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
